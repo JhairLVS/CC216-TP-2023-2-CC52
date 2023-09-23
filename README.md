@@ -3,7 +3,8 @@
 • Vargas Soto, Lennin Jhair jhairvargas611@gmail.com  
 • Mancilla Cienfuegos, Paula Jimena Pjmancilla100@gmail.com
 • Loyola Huaman, Jose Alejandro alejandroloyolah@gmail.com
-• Cario Leon, Lesly Estefany 
+• Caro Leon, Lesly Estefany 
+u20231d424@upc.edu.pe
 # Objetivo del trabajo
 Realizar un análisis exploratorio de un conjunto de datos (EDA), creando visualizaciones y obteniendo inferencias básicas utilizando RStudio como herramienta de software.
 # Breve descrpción del dataset
