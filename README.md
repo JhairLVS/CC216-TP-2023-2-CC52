@@ -27,3 +27,4 @@ Después de realizar el análisis al conjunto de datos exploratorio obtuvimos la
 • Agosto es el mes de más reservas y hay más concurrencia, también es el mes donde hay más errores, por ello se tiene que ver por eso se tiene que prever al momento de estimar cuánto flujo hay en cada més no basta con considerar las reservas sino también las cancelaciones para ver el flujo real del hotel.
 
 # Licencia
+GNU General Public License v3.0: La GPL v3.0 es una licencia de copyleft que garantiza que cualquier modificación o distribución del software derivado también sea de código abierto y sujeto a la misma licencia. Usamos esta licencia para garantizar que si hay mejoras de nuestro trabajo estas se mantengan como código abierto.
